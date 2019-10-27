@@ -9,3 +9,5 @@
 
 目標
 - 減少新增遊戲的開發成本
+
+![](https://github.com/henryxlu/gameBox/blob/master/gameBox.gif?raw=true)
